@@ -1,10 +1,10 @@
-# 📄 Invoice Data Extraction using Python (Amazon + Flipkart)
+#  Invoice Data Extraction using Python (Amazon + Flipkart)
 
 This project is a Python-based tool to automatically extract key fields from **Amazon** and **Flipkart invoice PDFs**, and export them into a clean, tabular **Excel spreadsheet**.
 
 ---
 
-## 🎯 Features
+##  Features
 
 ✅ Supports invoices from **Amazon** and **Flipkart**
 
